@@ -1,3 +1,4 @@
+#very simple histogram
 puts "Enter your text here please"
 text = gets.chomp
 words = text.split(" ")
